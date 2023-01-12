@@ -373,3 +373,4 @@ MSBuild_Logs
 /modules/01_Blog/Blog.UI/package-lock.json
 /modules/WebHost/Temp
 /modules/00_Admin/Admin.UI/.temp
+/publish.ps1
